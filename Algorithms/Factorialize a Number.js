@@ -11,7 +11,8 @@ For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
 Here are some helpful links:
 
     Arithmetic Operators
-    
+*/
+
 function factorialize(num) {
   if (num === 0){
     return 1;
