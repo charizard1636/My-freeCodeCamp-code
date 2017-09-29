@@ -17,5 +17,5 @@ function confirmEnding(str, target) {
   // target.length = 1 so str.length-target.length = -1
   // if ('Bastian'.substr(-1) === 'n')
   // if ('n' === 'n')}
-
+}
 confirmEnding("Bastian", "n");
