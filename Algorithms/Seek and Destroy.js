@@ -18,7 +18,6 @@ Here are some helpful links:
 return arr.filter(function(remove) {
   return arg.indexOf(remove) < 0;
 });
-  
 }
 // Arguments object - The arguments object is an Array -like object corresponding to the arguments passed to a function.
 // Array.prototype.filter() - The filter() method creates a new array with all elements that pass the test implemented by the provided function.
