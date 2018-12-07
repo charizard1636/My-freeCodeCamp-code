@@ -37,7 +37,7 @@ function findLongestWord(str) {
         }
     }
     str = longWord.join("");
-  return str.length;
+  return str.length;  
 }
 
 findLongestWord('The quick brown fox jumped over the lazy dog');
